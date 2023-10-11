@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.HeadFirst.Library", "DesignPatterns.HeadFirst.Library\DesignPatterns.HeadFirst.Library.csproj", "{E2BF60E2-FB5E-453A-B5B0-E0606EACD56F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.HeadFirst.App", "DesignPatterns.HeadFirst.App\DesignPatterns.HeadFirst.App.csproj", "{8BF9A161-0C65-4E4C-BC9A-DB1A55EE7116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2BF60E2-FB5E-453A-B5B0-E0606EACD56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BF60E2-FB5E-453A-B5B0-E0606EACD56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BF60E2-FB5E-453A-B5B0-E0606EACD56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BF60E2-FB5E-453A-B5B0-E0606EACD56F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF9A161-0C65-4E4C-BC9A-DB1A55EE7116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF9A161-0C65-4E4C-BC9A-DB1A55EE7116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF9A161-0C65-4E4C-BC9A-DB1A55EE7116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF9A161-0C65-4E4C-BC9A-DB1A55EE7116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA5F2D9C-F414-419A-8545-D903B88663A8}
+	EndGlobalSection
+EndGlobal
