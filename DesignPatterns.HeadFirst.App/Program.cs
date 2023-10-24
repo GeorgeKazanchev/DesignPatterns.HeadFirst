@@ -1,5 +1,4 @@
-﻿using DesignPatterns.HeadFirst.App.Chapter_1;
-using DesignPatterns.HeadFirst.App.Chapter_2._Observer;
+﻿using DesignPatterns.HeadFirst.App.Chapter_4._Factory_Method__Abstract_Factory;
 
 namespace DesignPatterns.HeadFirst.App
 {
@@ -7,7 +6,7 @@ namespace DesignPatterns.HeadFirst.App
     {
         public static void Main(string[] args)
         {
-            WeatherStation.Run();
+            PizzaStoreTest.Run();
         }
     }
 }
