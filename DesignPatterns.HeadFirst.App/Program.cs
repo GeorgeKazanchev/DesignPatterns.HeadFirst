@@ -1,4 +1,5 @@
 ﻿using DesignPatterns.HeadFirst.App.Chapter_4._Factory_Method__Abstract_Factory;
+using DesignPatterns.HeadFirst.App.Chapter_5._Singleton;
 
 namespace DesignPatterns.HeadFirst.App
 {
@@ -6,7 +7,7 @@ namespace DesignPatterns.HeadFirst.App
     {
         public static void Main(string[] args)
         {
-            PizzaStoreTest.Run();
+            SingletonTest.Run();
         }
     }
 }
