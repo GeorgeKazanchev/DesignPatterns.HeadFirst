@@ -1,4 +1,4 @@
-﻿using DesignPatterns.HeadFirst.App.Chapter_3._Decorator;
+﻿using DesignPatterns.HeadFirst.App.Chapter_6._Command;
 
 namespace DesignPatterns.HeadFirst.App
 {
@@ -6,7 +6,7 @@ namespace DesignPatterns.HeadFirst.App
     {
         public static void Main(string[] args)
         {
-            Starbuzz.Run();
+            MacroCommandTest.Run();
         }
     }
 }
