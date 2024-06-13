@@ -1,4 +1,4 @@
-﻿using DesignPatterns.HeadFirst.App.Chapter_6._Command;
+﻿using DesignPatterns.HeadFirst.App.Chapter_7._Adapter__Facade;
 
 namespace DesignPatterns.HeadFirst.App
 {
@@ -6,7 +6,7 @@ namespace DesignPatterns.HeadFirst.App
     {
         public static void Main(string[] args)
         {
-            MacroCommandTest.Run();
+            DuckAdapterTest.Run();
         }
     }
 }

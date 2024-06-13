@@ -11,4 +11,10 @@
     <ProjectReference Include="..\DesignPatterns.HeadFirst.Library\DesignPatterns.HeadFirst.Library.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Appendix\Bridge\" />
+    <Folder Include="Appendix\Builder\" />
+    <Folder Include="Appendix\Mediator\" />
+  </ItemGroup>
+
 </Project>
