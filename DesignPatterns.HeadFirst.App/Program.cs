@@ -1,4 +1,4 @@
-﻿using DesignPatterns.HeadFirst.App.Chapter_7._Adapter__Facade;
+﻿using DesignPatterns.HeadFirst.App.Chapter_8._Template_Method;
 
 namespace DesignPatterns.HeadFirst.App
 {
@@ -6,7 +6,7 @@ namespace DesignPatterns.HeadFirst.App
     {
         public static void Main(string[] args)
         {
-            DuckAdapterTest.Run();
+            MakingCaffeineBeverageTest.Run();
         }
     }
 }
